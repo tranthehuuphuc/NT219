@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DES-DLL", "DES-DLL.vcxproj", "{E91BC38C-0A46-4E26-8099-5EE78783C452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E91BC38C-0A46-4E26-8099-5EE78783C452}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{E91BC38C-0A46-4E26-8099-5EE78783C452}.Debug|ARM64.Build.0 = Debug|ARM64
+		{E91BC38C-0A46-4E26-8099-5EE78783C452}.Debug|x64.ActiveCfg = Debug|x64
+		{E91BC38C-0A46-4E26-8099-5EE78783C452}.Debug|x64.Build.0 = Debug|x64
+		{E91BC38C-0A46-4E26-8099-5EE78783C452}.Debug|x86.ActiveCfg = Debug|Win32
+		{E91BC38C-0A46-4E26-8099-5EE78783C452}.Debug|x86.Build.0 = Debug|Win32
+		{E91BC38C-0A46-4E26-8099-5EE78783C452}.Release|ARM64.ActiveCfg = Release|ARM64
+		{E91BC38C-0A46-4E26-8099-5EE78783C452}.Release|ARM64.Build.0 = Release|ARM64
+		{E91BC38C-0A46-4E26-8099-5EE78783C452}.Release|x64.ActiveCfg = Release|x64
+		{E91BC38C-0A46-4E26-8099-5EE78783C452}.Release|x64.Build.0 = Release|x64
+		{E91BC38C-0A46-4E26-8099-5EE78783C452}.Release|x86.ActiveCfg = Release|Win32
+		{E91BC38C-0A46-4E26-8099-5EE78783C452}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {065B8661-14E5-43AD-9B97-7F17DA5CF849}
+	EndGlobalSection
+EndGlobal

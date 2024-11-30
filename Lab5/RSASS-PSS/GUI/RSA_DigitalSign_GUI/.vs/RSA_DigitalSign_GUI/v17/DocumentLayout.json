@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Lab\\LabOffClass\\Lab5\\RSASS-PSS\\GUI\\RSA_DigitalSign_GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA60F537-3FE3-47B3-A5D1-A49E985A399F}|RSA_DigitalSign_GUI\\RSA_DigitalSign_GUI.csproj|x:\\lab\\laboffclass\\lab5\\rsass-pss\\gui\\rsa_digitalsign_gui\\rsa_digitalsign_gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA60F537-3FE3-47B3-A5D1-A49E985A399F}|RSA_DigitalSign_GUI\\RSA_DigitalSign_GUI.csproj|solutionrelative:rsa_digitalsign_gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA60F537-3FE3-47B3-A5D1-A49E985A399F}|RSA_DigitalSign_GUI\\RSA_DigitalSign_GUI.csproj|x:\\lab\\laboffclass\\lab5\\rsass-pss\\gui\\rsa_digitalsign_gui\\rsa_digitalsign_gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA60F537-3FE3-47B3-A5D1-A49E985A399F}|RSA_DigitalSign_GUI\\RSA_DigitalSign_GUI.csproj|solutionrelative:rsa_digitalsign_gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "X:\\Lab\\LabOffClass\\Lab5\\RSASS-PSS\\GUI\\RSA_DigitalSign_GUI\\RSA_DigitalSign_GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "RSA_DigitalSign_GUI\\Form1.cs",
+              "ToolTip": "X:\\Lab\\LabOffClass\\Lab5\\RSASS-PSS\\GUI\\RSA_DigitalSign_GUI\\RSA_DigitalSign_GUI\\Form1.cs",
+              "RelativeToolTip": "RSA_DigitalSign_GUI\\Form1.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAMwFsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:02:46.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "X:\\Lab\\LabOffClass\\Lab5\\RSASS-PSS\\GUI\\RSA_DigitalSign_GUI\\RSA_DigitalSign_GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "RSA_DigitalSign_GUI\\Form1.cs",
+              "ToolTip": "X:\\Lab\\LabOffClass\\Lab5\\RSASS-PSS\\GUI\\RSA_DigitalSign_GUI\\RSA_DigitalSign_GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "RSA_DigitalSign_GUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:59:04.413Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

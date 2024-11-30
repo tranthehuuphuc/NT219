@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RSA_DigitalSign_GUI/1.0.0": {
+        "runtime": {
+          "RSA_DigitalSign_GUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RSA_DigitalSign_GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

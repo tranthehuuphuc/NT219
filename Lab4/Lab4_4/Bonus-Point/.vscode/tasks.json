@@ -1,0 +1,78 @@
+// {
+//   "version": "2.0.0",
+//   "tasks": [
+//       {
+//           "type": "shell",
+//           "label": "C/C++: g++.exe build active file",
+//           "command": "C:/msys64/mingw64/bin/g++.exe",
+//           "args": [
+//               "-g2",
+//               "-O3",
+//               "${file}",
+//               "-o",
+//               "${fileDirname}/${fileBasenameNoExtension}.exe",
+//               "-pthread",
+//               "-Wall",
+//               "-I${workspaceFolder}/include",
+//               "-L${workspaceFolder}/lib",
+//               "-l:openssl/libcrypto.a",  
+//               "-l:cryptopp/libcryptopp.a",  
+//               "-lWS2_32",
+//               "-lcrypt32",
+//             //   "-shared",
+//             //   "-DDLL_EXPORT" 
+//           ],
+//           "options": {
+//               "cwd": "${workspaceFolder}"
+//           },
+//           "problemMatcher": [
+//               "$gcc"
+//           ],
+//           "group": {
+//               "kind": "build",
+//               "isDefault": true
+//           },
+//           "detail": "compiler: C:/msys64/mingw64/bin/g++.exe"
+//       }
+//   ]
+// }
+
+//Linux
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "C/C++: g++.exe build active file",
+            "command": "/usr/bin/g++",
+            "args": [
+                "-g2",
+                "-O3",
+                "${file}",
+                "-o",
+                "${fileDirname}/${fileBasenameNoExtension}",
+                "-pthread",
+                "-Wall",
+                "-I${workspaceFolder}/include",
+                "-L${workspaceFolder}/lib",
+                "-l:libcryptopp.a",  
+                // "-lWS2_32",
+                // "-lcrypt32",
+              //   "-shared",
+              //   "-DDLL_EXPORT" 
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "compiler: /usr/bin/g++"
+        }
+    ]
+  }
+  

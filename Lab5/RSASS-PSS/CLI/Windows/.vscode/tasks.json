@@ -1,0 +1,37 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "C/C++: g++ build active file",
+			"command": "/msys64/mingw64/bin/g++",
+			"args": [
+				"-g2",
+				"-O3",
+				"-DNDEBUG",
+				"${file}",
+				"-o",
+				"${fileDirname}/${fileBasenameNoExtension}",
+				"-D_WIN32_WINNT=0x0501",
+				"-lpthread",
+				"-I${workspaceFolder}/include",
+				"-L${workspaceFolder}/lib",
+				"-l:libcrypto.a",
+				"-lcrypt32", //Win API crypt32.lib
+                "-lws2_32", //Win API ws2_32.lib
+               	"-Wall",
+			],
+			"options": {
+				"cwd": "/msys64/mingw64/bin"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+                "kind": "build",
+                "isDefault": true
+            },
+			"detail": "compiler: /msys64/mingw64/bin/g++"
+		}
+	]
+}

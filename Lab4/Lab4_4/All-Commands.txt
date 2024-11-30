@@ -1,0 +1,19 @@
+key = tranthehuuphuc
+message = mat-ma-hoc-vui-ghe
+padding = con-meo-ngu-ngoc-dang-yeu-cute-pho-mai-que
+
+sha1 = d10ed9fbde9491d3370fa8398d4e6bb398d324ee
+sha256 = 7a67ce61dddb02b746a7db1289d7bcef917836e65ce37773bf29451817c7d133
+sha512 = 2f5cde80373d8c3e5c5f7a5b41715ff7c1449d9da504df8dfc2f31d171d58466093c4269c141ac74320621b9fcbc967e209f005592925fe8b8bf0c25e8b69a2c
+
+
+
+sha1
+./hashpump -s 'd10ed9fbde9491d3370fa8398d4e6bb398d324ee' -d 'mat-ma-hoc-vui-ghe' -a 'con-meo-ngu-ngoc-dang-yeu-cute-pho-mai-que' -k 14
+
+sha256
+./hashpump -s '7a67ce61dddb02b746a7db1289d7bcef917836e65ce37773bf29451817c7d133' -d 'mat-ma-hoc-vui-ghe' -a 'con-meo-ngu-ngoc-dang-yeu-cute-pho-mai-que' -k 14
+
+sha512
+./hashpump -s '2f5cde80373d8c3e5c5f7a5b41715ff7c1449d9da504df8dfc2f31d171d58466093c4269c141ac74320621b9fcbc967e209f005592925fe8b8bf0c25e8b69a2c' -d 'mat-ma-hoc-vui-ghe' -a 'con-meo-ngu-ngoc-dang-yeu-cute-pho-mai-que' -k 14
+

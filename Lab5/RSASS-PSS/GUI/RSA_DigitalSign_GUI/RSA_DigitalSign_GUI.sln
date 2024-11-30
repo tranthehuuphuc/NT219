@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSA_DigitalSign_GUI", "RSA_DigitalSign_GUI\RSA_DigitalSign_GUI.csproj", "{AA60F537-3FE3-47B3-A5D1-A49E985A399F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA60F537-3FE3-47B3-A5D1-A49E985A399F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA60F537-3FE3-47B3-A5D1-A49E985A399F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA60F537-3FE3-47B3-A5D1-A49E985A399F}.Debug|x64.ActiveCfg = Debug|x64
+		{AA60F537-3FE3-47B3-A5D1-A49E985A399F}.Debug|x64.Build.0 = Debug|x64
+		{AA60F537-3FE3-47B3-A5D1-A49E985A399F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA60F537-3FE3-47B3-A5D1-A49E985A399F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA60F537-3FE3-47B3-A5D1-A49E985A399F}.Release|x64.ActiveCfg = Release|x64
+		{AA60F537-3FE3-47B3-A5D1-A49E985A399F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {981242A9-9A01-482A-8E5E-266C0437B8E0}
+	EndGlobalSection
+EndGlobal

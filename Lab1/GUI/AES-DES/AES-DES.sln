@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AES-DES", "AES-DES.csproj", "{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}.Debug|x64.ActiveCfg = Debug|x64
+		{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}.Debug|x64.Build.0 = Debug|x64
+		{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}.Release|x64.ActiveCfg = Release|x64
+		{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F533A923-93AA-4C4A-B83C-FDA4FAF9B309}
+	EndGlobalSection
+EndGlobal

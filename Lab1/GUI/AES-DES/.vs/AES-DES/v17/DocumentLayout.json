@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Lab\\Labs_OffClass\\Lab1\\GUI\\AES-DES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}|AES-DES.csproj|x:\\lab\\labs_offclass\\lab1\\gui\\aes-des\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}|AES-DES.csproj|solutionrelative:aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}|AES-DES.csproj|x:\\lab\\labs_offclass\\lab1\\gui\\aes-des\\des.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}|AES-DES.csproj|solutionrelative:des.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}|AES-DES.csproj|x:\\lab\\labs_offclass\\lab1\\gui\\aes-des\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}|AES-DES.csproj|solutionrelative:aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}|AES-DES.csproj|X:\\Lab\\Labs_OffClass\\Lab1\\GUI\\AES-DES\\des.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}|AES-DES.csproj|solutionrelative:des.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}|AES-DES.csproj|X:\\Lab\\Labs_OffClass\\Lab1\\GUI\\AES-DES\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}|AES-DES.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}|AES-DES.csproj|x:\\lab\\labs_offclass\\lab1\\gui\\aes-des\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B353F4-DBAA-4F37-BBBC-0A003D5DD97F}|AES-DES.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AES.cs [Design]",
+              "DocumentMoniker": "X:\\Lab\\Labs_OffClass\\Lab1\\GUI\\AES-DES\\AES.cs",
+              "RelativeDocumentMoniker": "AES.cs",
+              "ToolTip": "X:\\Lab\\Labs_OffClass\\Lab1\\GUI\\AES-DES\\AES.cs [Design]",
+              "RelativeToolTip": "AES.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:12:50.51Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cs",
+              "DocumentMoniker": "X:\\Lab\\Labs_OffClass\\Lab1\\GUI\\AES-DES\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "X:\\Lab\\Labs_OffClass\\Lab1\\GUI\\AES-DES\\Home.cs",
+              "RelativeToolTip": "Home.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:48:54.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DES.cs",
+              "DocumentMoniker": "X:\\Lab\\Labs_OffClass\\Lab1\\GUI\\AES-DES\\DES.cs",
+              "RelativeDocumentMoniker": "DES.cs",
+              "ToolTip": "X:\\Lab\\Labs_OffClass\\Lab1\\GUI\\AES-DES\\DES.cs",
+              "RelativeToolTip": "DES.cs",
+              "ViewState": "AQIAAFsAAACYmZmZmZkgwG4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:57:04.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DES.cs [Design]",
+              "DocumentMoniker": "X:\\Lab\\Labs_OffClass\\Lab1\\GUI\\AES-DES\\DES.cs",
+              "RelativeDocumentMoniker": "DES.cs",
+              "ToolTip": "X:\\Lab\\Labs_OffClass\\Lab1\\GUI\\AES-DES\\DES.cs [Design]",
+              "RelativeToolTip": "DES.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:51:18.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AES.cs",
+              "DocumentMoniker": "X:\\Lab\\Labs_OffClass\\Lab1\\GUI\\AES-DES\\AES.cs",
+              "RelativeDocumentMoniker": "AES.cs",
+              "ToolTip": "X:\\Lab\\Labs_OffClass\\Lab1\\GUI\\AES-DES\\AES.cs",
+              "RelativeToolTip": "AES.cs",
+              "ViewState": "AQIAAG0AAAAACgAAAAAJwBsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:52:23.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "X:\\Lab\\Labs_OffClass\\Lab1\\GUI\\AES-DES\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "X:\\Lab\\Labs_OffClass\\Lab1\\GUI\\AES-DES\\Home.cs [Design]",
+              "RelativeToolTip": "Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:20:14.533Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

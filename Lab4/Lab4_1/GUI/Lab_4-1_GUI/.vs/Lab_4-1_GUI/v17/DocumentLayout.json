@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Lab\\LabOffClass\\Lab4\\Lab4_1\\GUI\\Lab_4-1_GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{009A9230-52EC-4EB5-B1B9-8D7D0411A6D3}|Lab_4-1_GUI\\Lab_4-1_GUI.csproj|x:\\lab\\laboffclass\\lab4\\lab4_1\\gui\\lab_4-1_gui\\lab_4-1_gui\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{009A9230-52EC-4EB5-B1B9-8D7D0411A6D3}|Lab_4-1_GUI\\Lab_4-1_GUI.csproj|solutionrelative:lab_4-1_gui\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A9230-52EC-4EB5-B1B9-8D7D0411A6D3}|Lab_4-1_GUI\\Lab_4-1_GUI.csproj|x:\\lab\\laboffclass\\lab4\\lab4_1\\gui\\lab_4-1_gui\\lab_4-1_gui\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A9230-52EC-4EB5-B1B9-8D7D0411A6D3}|Lab_4-1_GUI\\Lab_4-1_GUI.csproj|solutionrelative:lab_4-1_gui\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs",
+              "DocumentMoniker": "X:\\Lab\\LabOffClass\\Lab4\\Lab4_1\\GUI\\Lab_4-1_GUI\\Lab_4-1_GUI\\Home.cs",
+              "RelativeDocumentMoniker": "Lab_4-1_GUI\\Home.cs",
+              "ToolTip": "X:\\Lab\\LabOffClass\\Lab4\\Lab4_1\\GUI\\Lab_4-1_GUI\\Lab_4-1_GUI\\Home.cs",
+              "RelativeToolTip": "Lab_4-1_GUI\\Home.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAkwE0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T21:11:04.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "X:\\Lab\\LabOffClass\\Lab4\\Lab4_1\\GUI\\Lab_4-1_GUI\\Lab_4-1_GUI\\Home.cs",
+              "RelativeDocumentMoniker": "Lab_4-1_GUI\\Home.cs",
+              "ToolTip": "X:\\Lab\\LabOffClass\\Lab4\\Lab4_1\\GUI\\Lab_4-1_GUI\\Lab_4-1_GUI\\Home.cs [Design]",
+              "RelativeToolTip": "Lab_4-1_GUI\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T21:10:40.065Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
